@@ -1,0 +1,17 @@
+incident_id,opened_at,severity,root_cause,status,assigned_to,sla_minutes,resolved_at,resolution_note,escalated_to
+INC-20260424-145517,2026-04-24 14:55:17,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),RESOLVED,admin,15,2026-04-28 12:03:16,Resolve by agent,
+INC-20260428-120132,2026-04-28 12:01:32,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),IN_PROGRESS,operator,15,,,
+INC-20260428-120158,2026-04-28 12:01:58,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-120412,2026-04-28 12:04:12,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),ESCALATED,admin,15,,,Senior Ops
+INC-20260428-120448,2026-04-28 12:04:48,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-120557,2026-04-28 12:05:57,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-120631,2026-04-28 12:06:31,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-121507,2026-04-28 12:15:07,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-122154,2026-04-28 12:21:54,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-122207,2026-04-28 12:22:07,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),ESCALATED,admin,15,,,Senior Ops
+INC-20260428-122222,2026-04-28 12:22:22,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-122301,2026-04-28 12:23:01,CRITICAL,⏳ Analysing… (IG activates after ~20 ticks of data),OPEN,admin,15,,,
+INC-20260428-122414,2026-04-28 12:24:14,CRITICAL,"Primary: BANDWIDTH (🟢 stabilising, 38.8% impact) [IG]  ·  Secondary: THROUGHPUT (🟢 stabilising, 26.0% impact) [IG]",OPEN,admin,15,,,
+INC-20260428-122510,2026-04-28 12:25:10,CRITICAL,"Primary: BANDWIDTH (🟢 stabilising, 36.1% impact) [IG]  ·  Secondary: PACKET_LOSS (🔴 driving anomaly, 24.6% impact) [IG]",ESCALATED,admin,15,,,Senior Ops
+INC-20260428-122808,2026-04-28 12:28:08,CRITICAL,"Primary: BANDWIDTH (🔴 driving anomaly, 72.1% impact) [IG]  ·  Secondary: PACKET_LOSS (🔴 driving anomaly, 11.7% impact) [IG]",OPEN,admin,15,,,
+INC-20260428-123027,2026-04-28 12:30:27,CRITICAL,"Primary: PACKET_LOSS (🟢 stabilising, 62.7% impact) [IG]  ·  Secondary: BANDWIDTH (🟢 stabilising, 17.0% impact) [IG]",OPEN,admin,15,,,
